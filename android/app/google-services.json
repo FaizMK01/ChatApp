@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669398642953",
+    "project_id": "mitchchatapp-a04c2",
+    "storage_bucket": "mitchchatapp-a04c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669398642953:android:9462a28a33e79a349ae3d8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KaYACDUHxFTJiRMusLxqI6HIonSBUzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
